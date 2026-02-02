@@ -69,7 +69,7 @@ python projects.py
 
 ![](sc1.png)
 
----
+
 
 ### 🔹 2. Display All Students
 
@@ -81,7 +81,7 @@ python projects.py
 
 ![](sc2.png)
 
----
+
 
 ### 🔹 3. Update Student
 
@@ -98,7 +98,6 @@ python projects.py
 
 ![](sc3.png)
 
----
 
 ### 🔹 4. Delete Student
 
@@ -107,11 +106,6 @@ python projects.py
 
 📸 **Screenshot – Delete Student :**
 
-![](sc14.png)
+![](sc4.png)
 
----
-
-
-
-<!-- EXIT PROGRAM SCREENSHOT HERE -->
 
